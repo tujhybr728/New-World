@@ -1,0 +1,277 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.35f1 (18e4db7a9996) revision 1631451'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 7  (6.1.0) 64bit Ultimate' Language: 'ru' Physical Memory: 16328 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Юнити/New World/New World
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50366
+Successfully changed project path to: D:/Юнити/New World/New World
+D:/Юнити/New World/New World
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 68.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.35f1 (18e4db7a9996)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Юнити/New World/New World/Assets
+GfxDevice: creating device client; threaded=0
+d3d11: CreateDXGIFactory2(...) not found, fallbacking to CreateDXGIFactory1(...).
+d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Radeon RX 5500 XT (ID=0x7340)
+    Vendor:   
+    VRAM:     8147 MB
+    Driver:   26.20.15015.1007
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001437 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Domain Reload Profiling:
+	ReloadAssembly (759ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (601ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (190ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (234ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (71ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (105ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002501 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 81.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.623 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1624ms)
+		BeginReloadAssembly (225ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (1324ms)
+			LoadAssemblies (218ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (399ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (485ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (82ms)
+				BeforeProcessingInitializeOnLoad (107ms)
+				ProcessInitializeOnLoadAttributes (247ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.0 MB.
+System memory in use after: 136.6 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3223.
+Total: 4.522652 ms (FindLiveObjects: 0.231823 ms CreateObjectMapping: 0.113209 ms MarkObjects: 3.830185 ms  DeleteObjects: 0.346233 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs
+  artifactKey: Guid(728a68cd5eeefe8468a970ec52fd82aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs using Guid(728a68cd5eeefe8468a970ec52fd82aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c90d79b36c2cc466793b56c1d90f4dc') in 0.017749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.374358 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs/SRP
+  artifactKey: Guid(d18151eac12915846bce3d3746e3d004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs/SRP using Guid(d18151eac12915846bce3d3746e3d004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30595e8259e0cbc43f33da39589ab42') in 0.002908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.044605 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTree.prefab
+  artifactKey: Guid(d8067ecd7d4315c4aada5608b42ed73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTree.prefab using Guid(d8067ecd7d4315c4aada5608b42ed73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295f2e916b72d68bdf8fa495e77e242b') in 1.322451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTreeA_SRP.prefab
+  artifactKey: Guid(3dd1c1bfa60aa34478052278898bb40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTreeA_SRP.prefab using Guid(3dd1c1bfa60aa34478052278898bb40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096f1336ab27eca42c1831a40eb04233') in 0.025150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001029 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTreeB_SRP.prefab
+  artifactKey: Guid(81ed4e584e6c4894596fd0ac2c996d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTreeB_SRP.prefab using Guid(81ed4e584e6c4894596fd0ac2c996d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cedacc6beca0a6db662cec55b1b5f43') in 0.195797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTreeC_Test_SRP.prefab
+  artifactKey: Guid(2fe4db782f59f2845bd1bbf8ac6d9603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Prefabs/SRP/MainTreeC_Test_SRP.prefab using Guid(2fe4db782f59f2845bd1bbf8ac6d9603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4614ae5fe520bff715ec0b32aebffd1f') in 0.126342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.721310 seconds.
+  path: Assets/Trees_WorldSpace_FREE/WorldSpaceTrees_Doc.txt
+  artifactKey: Guid(005285859a22f2d499a4ce91a9bfeed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/WorldSpaceTrees_Doc.txt using Guid(005285859a22f2d499a4ce91a9bfeed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e1e50b237e77a07d44b951ec73d796') in 0.006062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2289.497283 seconds.
+  path: Assets/Prefab/Terrain 1.prefab
+  artifactKey: Guid(978ef82b9cc1eb941a9db92c54053884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Terrain 1.prefab using Guid(978ef82b9cc1eb941a9db92c54053884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ef38ca7bbfa411d1058a937163a6f1') in 0.012824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.576087 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/grass512_refined.png
+  artifactKey: Guid(2ac74e8f3b8fb8a47aba9cd4f0119ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/grass512_refined.png using Guid(2ac74e8f3b8fb8a47aba9cd4f0119ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39abcd2073e046bb49fadc4b43a2fb1') in 0.075408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/treeBarksCD_norm_normal.png
+  artifactKey: Guid(733951f4f2a83d3419787777e45289b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/treeBarksCD_norm_normal.png using Guid(733951f4f2a83d3419787777e45289b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fdad18dceca9cd64d66c9112ab0847') in 0.030172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetC_norm.png
+  artifactKey: Guid(5219f109e6bc0bf4184d3770eb2182bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetC_norm.png using Guid(5219f109e6bc0bf4184d3770eb2182bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2813179e86af5390de0ae39a4cc760') in 0.011776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetB_norm_pushed.png
+  artifactKey: Guid(880b830756accc440b420f7086ebfa39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetB_norm_pushed.png using Guid(880b830756accc440b420f7086ebfa39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd202639ba98ac713f438478a51925eb2') in 0.010856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/NormalMap_Push.png
+  artifactKey: Guid(6af628f73099a6540b08d3916bf9d3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/NormalMap_Push.png using Guid(6af628f73099a6540b08d3916bf9d3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e87f528b1116991347a6b457f4f294d') in 0.052195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/treeBarksCD_albedo.png
+  artifactKey: Guid(7f4f7879a0ea5ea48ad0e1c9e82db454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/treeBarksCD_albedo.png using Guid(7f4f7879a0ea5ea48ad0e1c9e82db454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e148daf6b2c6d7a194c6c7c5a124a02f') in 0.010138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetA_translucentIllum.png
+  artifactKey: Guid(c74914b5e72b0c0469ab52085cb6c6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetA_translucentIllum.png using Guid(c74914b5e72b0c0469ab52085cb6c6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52daa0c61b081674d59797f5590d466') in 0.009548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetC_albedoCutout.tga
+  artifactKey: Guid(da047fa2970bf1543ba30e13fe074725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetC_albedoCutout.tga using Guid(da047fa2970bf1543ba30e13fe074725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c41b19b40bac58981d6cdfc3503696') in 0.112609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/treeBarksAB_albedo.png
+  artifactKey: Guid(ce7f8d752eff4554889a2841119b89ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/treeBarksAB_albedo.png using Guid(ce7f8d752eff4554889a2841119b89ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398553f0014cf0ff3405946d96bc20e2') in 0.010369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Motion_Power.png
+  artifactKey: Guid(53572511f4383b843a0bbbcbfe0466bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Motion_Power.png using Guid(53572511f4383b843a0bbbcbfe0466bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83bfd4ff1b5aa1db8a46f08f67906ebe') in 0.008511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetC_translucentIllum.png
+  artifactKey: Guid(d490c6a344b3a984d9712ff1c3ff0178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetC_translucentIllum.png using Guid(d490c6a344b3a984d9712ff1c3ff0178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e074fb3b5d352cd6761b3fca7aabe420') in 0.009016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetA_norm_PushedRound.png
+  artifactKey: Guid(f944269a9234a224b97667207cf596c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetA_norm_PushedRound.png using Guid(f944269a9234a224b97667207cf596c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409300f64bd4f4af20e136cbc384029d') in 0.011387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetB_albedoCutout.tga
+  artifactKey: Guid(3b76bdb3d2d04ba4093d25ea616ca667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetB_albedoCutout.tga using Guid(3b76bdb3d2d04ba4093d25ea616ca667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760534104389998512469ca0b78b66b9') in 0.012004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetA_albedoCutout.tga
+  artifactKey: Guid(c92c8f39af8b6fc48b95b267a0c083a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetA_albedoCutout.tga using Guid(c92c8f39af8b6fc48b95b267a0c083a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630c54ad690f92839300dca3f87fee48') in 0.009905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/treeBarksAB_norm.png
+  artifactKey: Guid(24bc6cbd871d1744fba38f16471f0f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/treeBarksAB_norm.png using Guid(24bc6cbd871d1744fba38f16471f0f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1555b6f83f3e4eddc7540094fbfa732e') in 0.014745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000774 seconds.
+  path: Assets/Trees_WorldSpace_FREE/Textures/Trees_SetB_translucentIllum.png
+  artifactKey: Guid(f44d162b0c5efe2439b07fc06bef0ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trees_WorldSpace_FREE/Textures/Trees_SetB_translucentIllum.png using Guid(f44d162b0c5efe2439b07fc06bef0ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80181fd1350b97ecb300ac3473b7ec6b') in 0.037221 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
